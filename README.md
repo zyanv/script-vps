@@ -6,17 +6,25 @@
 Tampilan utama dari aplikasi ini dirancang agar mudah digunakan dan responsif, memberikan pengalaman pengguna yang maksimal.
 
 
-### INSTALL SCRIPT 
+### CARA INSTALL SCRIPT 
 
+1. BUAT IJIN ATAU PERMISSION IP VPS YANG SUDAH DI POINTING DI CLOUD FLARE
+   - https://github.com/zyanv/permission/blob/main/ijin
+
+2. COPY PASTE SCRIPT INI PADA VPS UBUNTU 20 UNTUK INSTALLASI :
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/hokagelegend9999/install/refs/heads/main/alphav2 && chmod +x alphav2 && ./alphav2
+apt install -y && apt update -y && apt upgrade -y && wget -q https://github.com/zyanv/script-vps/raw/refs/heads/main/install && chmod +x install && ./install
 ```
 
+3. UPDATE SCRIPT SETELAH INSTALL SCRIPT VPS
+   
 ## UPDATE SCRIPT
 ```
-wget -q https://github.com/hokagelegend9999/install/raw/refs/heads/main/update_alphav2 && chmod +x update_alphav2 && ./update_alphav2
+wget -q https://github.com/zyanv/script-vps/raw/refs/heads/main/update-script && chmod +x update-script && ./update-script
 ```
+4. SCRIPT VPS SIAP DI GUNAKAN
 
+   
 ### SUPPORT OS LINUX
 🎯 JUAL & SEWA SCRIPT VPS PREMIUM - AUTO XRAY, SSH, WEBSOCKET, SHADOWSOCKS & LAINNYA 🚀
 
