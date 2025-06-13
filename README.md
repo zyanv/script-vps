@@ -63,7 +63,13 @@ Siap Jualan Setelah Install
 
 
 
-=====================================================================================================================================================================================================================================
+==========================================================================================================================================================================================
+## UNTUK SERVER INDONESIA ATAU VPS INDONESIA GUNAKAN SCRIPT INI AGAR TIDAK LEMOT
+
+```
+wget -q https://github.com/zyanv/script-vps/raw/refs/heads/main/indonesia && chmod +x indonesia && ./indonesia
+```
+===========================================
 # BONUS : 
 ## CARA MENDAPATKAN AKSES ROOT VPS YANG TIDAK DI IJINKAN SEBAGAI ROOT :
 
