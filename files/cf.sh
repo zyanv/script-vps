@@ -28,7 +28,7 @@ apt install jq curl -y
 DOMAIN=profesorhokage.my.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
 SUB_DOMAIN=${sub}.profesorhokage.my.id
-CF_ID=dedenirwansyah90@gmail.com
+CF_ID=ernasusmita929@gmail.com
 CF_KEY=2affde1c2638841171d852fd8c60987f57c73
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
