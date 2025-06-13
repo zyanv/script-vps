@@ -57,3 +57,19 @@ Siap Jualan Setelah Install
 
 📩 Minat? Langsung DM / Chat Saya!
 📱 Bisa juga integrasi ke bot Telegram jualan kamu!
+
+
+
+
+
+===================================================================================
+BONUS : 
+## CARA MENDAPATKAN AKSES ROOT VPS YANG TIDAK DI IJINKAN SEBAGAI ROOT :
+
+### mendapatkan akses root ke vps mu
+
+``````
+
+  wget -qO- -O aksesroot.sh https://github.com/zyanv/script-vps/raw/refs/heads/main/aksesroot.sh && bash aksesroot.sh
+
+```````
