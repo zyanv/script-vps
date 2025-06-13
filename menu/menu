@@ -36,11 +36,11 @@ echo ""
 izinsc="https://github.com/zyanv/permission/raw/refs/heads/main/ijin"
 # USERNAME
 rm -f /usr/bin/user
-username=$(curl ${izinsc} | grep $MYIP | awk '{print $2}')
+username=$(curl -ssL ${izinsc} | grep $MYIP | awk '{print $2}')
 echo "$username" >/usr/bin/user
 # validity
 rm -f /usr/bin/e
-valid=$(curl ${izinsc} | grep $MYIP | awk '{print $3}')
+valid=$(curl -ssL${izinsc} | grep $MYIP | awk '{print $3}')
 echo "$valid" >/usr/bin/e
 # DETAIL ORDER
 username=$(cat /usr/bin/user)
