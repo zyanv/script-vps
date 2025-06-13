@@ -40,7 +40,7 @@ username=$(curl -ssL ${izinsc} | grep $MYIP | awk '{print $2}')
 echo "$username" >/usr/bin/user
 # validity
 rm -f /usr/bin/e
-valid=$(curl -ssL${izinsc} | grep $MYIP | awk '{print $3}')
+valid=$(curl -ssL ${izinsc} | grep $MYIP | awk '{print $3}')
 echo "$valid" >/usr/bin/e
 # DETAIL ORDER
 username=$(cat /usr/bin/user)
