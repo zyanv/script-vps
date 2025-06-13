@@ -31,15 +31,16 @@ wget -q https://github.com/zyanv/script-vps/raw/refs/heads/main/update-script &&
 🔥 FULL FITUR & SIAP PAKAI UNTUK JUALAN AKUN! 🔥
 
 🔧 FITUR UNGGULAN SCRIPT:
-✅ Auto Create Akun: Xray, SSH, Websocket, Shadowsocks, dll
-✅ Add & Delete User
-✅ Limit Kuota & Limit IP
-✅ Trial Harian / Per Jam
-✅ Auto Kick User Aktif Ganda
-✅ Bot Telegram: Notifikasi Pembuatan Akun Langsung ke Telegram
-✅ Panel Simpel & Cepat, Cocok Untuk Pemula & Penjual Akun
-✅ Dukungan IPv4 & IPv6
-✅ Fast & Ringan, Hemat Resource VPS
+
+- ✅ Auto Create Akun: Xray, SSH, Websocket, Shadowsocks, dll
+- ✅ Add & Delete User
+- ✅ Limit Kuota & Limit IP
+- ✅ Trial Harian / Per Jam
+- ✅ Auto Kick User Aktif Ganda
+- ✅ Bot Telegram: Notifikasi Pembuatan Akun Langsung ke Telegram
+- ✅ Panel Simpel & Cepat, Cocok Untuk Pemula & Penjual Akun
+- ✅ Dukungan IPv4 & IPv6
+- ✅ Fast & Ringan, Hemat Resource VPS
 
 
 🎁 BONUS:
