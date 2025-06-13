@@ -33,7 +33,7 @@ SERONLINE=$(uptime -p | cut -d " " -f 2-10000)
 clear
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo ""
-izinsc="https://raw.githubusercontent.com/hokagelegend9999/ijin/refs/heads/main/alpha"
+izinsc="https://github.com/zyanv/permission/raw/refs/heads/main/ijin"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl ${izinsc} | grep $MYIP | awk '{print $2}')
@@ -235,9 +235,9 @@ kontol
 ;;
 12)
 clear
-wget -q https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/update.sh
-chmod +x update.sh
-./update.sh
+wget -q https://github.com/zyanv/script-vps/raw/refs/heads/main/update-script
+chmod +x update-script
+./update-script
 ;;
 13)
 clear
